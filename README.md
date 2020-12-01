@@ -161,10 +161,4 @@ print("Keluar")
 
 ![Output](foto/Output.png)
 
-Hasil Flowchart seperti berikut ini :
-
-![uby3](foto/uby3.png)
-
 # TERIMA KASIH 
-
-![uby4](foto/uby4.png)
