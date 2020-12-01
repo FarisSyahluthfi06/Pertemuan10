@@ -1,12 +1,13 @@
 # Tugas 10
 
-# Nama   : Rafi Ubaidillah
-# NIM    : 312010090
+![Faris](foto/Faris.png)
+# Nama   : Faris Syahluthfi
+# NIM    : 312010034
 # Kelas  : TI.20.A1
 
 # Lab 6 
 
-![uby2](foto/uby2.png)
+![Soal](foto/Soal.png)
 
 Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 
@@ -156,9 +157,9 @@ print("Keluar")
         break
 ````
 
-Terakhir kita akan mencetak hasil dari program yang telah dibuat
+### Berikut ini adalah Outputnya:
 
-![ubay1](foto/ubay1.png)
+![Output](foto/Output.png)
 
 Hasil Flowchart seperti berikut ini :
 
